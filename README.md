@@ -5,6 +5,7 @@ Step 1:
 pip uninstall discord discord.py -y
 pip install pycord
 pip install py-cord[voice]
+
 ```
 -----------------------------
 Step 2:
